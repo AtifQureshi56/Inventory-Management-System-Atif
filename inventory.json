@@ -1,0 +1,5 @@
+{
+    "101": {"product_id": "101", "name": "Chair", "category": "Furniture", "price": 30000, "stock_quantity": 100},
+    "102": {"product_id": "102", "name": "Phone", "category": "Electronics", "price": 5000, "stock_quantity": 100},
+    "103": {"product_id": "103", "name": "Table", "category": "Furniture", "price": 20000, "stock_quantity": 100}
+}
